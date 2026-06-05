@@ -1,5 +1,7 @@
-<h1 align="center">OI, meu nome é Rodrigo</h1>
+<h1 align="center">Oi, meu nome é Rodrigo</h1>
 <h3 align="center">Estudante de Ciências da Computação</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=digao-1234&label=Profile%20views&color=0e75b6&style=flat" alt="digao-1234" /> </p>
 
 - Estou estudando **Ciências da Computação na CESAR School**
 
