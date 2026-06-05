@@ -1,4 +1,4 @@
-<h1 align="center">OI, meu nome é Rodrigo</h1>
+<h1 align="center">Oi, meu nome é Rodrigo</h1>
 <h3 align="center">Estudante de Ciências da Computação</h3>
 
 - Estou estudando **Ciências da Computação na CESAR School**
